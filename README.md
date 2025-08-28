@@ -6,3 +6,4 @@ Version - 1.4 is the working version of the mod. It includes the shaped civilisa
 Version 1.5 — Age of Communism
 This update adds a new scenario in which the USSR won the Cold War and half of the world has become communist.
 Version 1.6 - this update added 3 new shaped civilisations: the Fourth Reich, the Russian Reich, and the Sixth Reich.
+Version 1.7 is probably one of the most complex versions in development, featuring many new formations and a new scenario.
